@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InfoServerSub.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pathLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\sarroca\aplica\Visatge\InfoServerSub\Release</Value>
+    </Setting>
+    <Setting Name="pathTemplates" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\sarroca\aplica\Visatge</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
